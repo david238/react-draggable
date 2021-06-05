@@ -2,6 +2,10 @@
 
 ### 4.4.3 (June 8, 2020)
 
+- ensure documentElement.style actually exists in getPrefix()
+
+### 4.4.3 (June 8, 2020)
+
 - Add `nodeRef` to TypeScript definitions
 
 ### 4.4.2 (May 14, 2020)
